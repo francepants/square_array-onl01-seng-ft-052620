@@ -4,5 +4,5 @@ def square_array(array)
     array.each do |i|
       arr << i ** 2  # ** is ruby exponent operator
     end
-    arr.collect()
+    arr
 end
